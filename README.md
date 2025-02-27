@@ -26,7 +26,7 @@ Create a Java application that:
 
 ## Additional Features (Choose to earn full marks)
 
-### Case-Insensitive Address Matching (1 mark)
+### Case-Insensitive Address Matching (1 mark) --- this one -- done
 - Implement case-insensitive comparison for street and city inputs
 - Normalize input data before comparison
 
@@ -34,17 +34,17 @@ Create a Java application that:
 - Calculate delivery fees based on street distance
 - Implement a fixed fee structure per street
 
-### Order Customization (2 marks)
+### Order Customization (2 marks) --- this one -- done
 - Add pizza size selection (Small, Medium, Large)
 - Include topping selection options
 - Display order summary with total cost
 
-### Persistent Order History (3 marks)
+### Persistent Order History (3 marks) --- this one
 - Save completed orders to a file
 - Implement functionality to view order history
 - Maintain persistent storage of order data
 
-### Dynamic Delivery Area Expansion (2 marks)
+### Dynamic Delivery Area Expansion (2 marks) --- this one
 - Allow addition of new streets to delivery area
 - Maintain expanded delivery area during program execution
 
